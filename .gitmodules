@@ -37,3 +37,6 @@
 [submodule "integration/local-checker"]
 	path = integration/local-checker
 	url = https://github.com/Chain-Fox/os-checker-local
+[submodule "solidity-checker/aderyn"]
+	path = solidity-checker/aderyn
+	url = https://github.com/Chain-Fox/aderyn.git
