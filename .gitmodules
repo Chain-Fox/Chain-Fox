@@ -40,3 +40,6 @@
 [submodule "solidity-checker/aderyn"]
 	path = solidity-checker/aderyn
 	url = https://github.com/Chain-Fox/aderyn.git
+[submodule "rust-checker/static/solana-lints"]
+	path = rust-checker/static/solana-lints
+	url = https://github.com/Chain-Fox/solana-lints.git
