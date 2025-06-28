@@ -43,3 +43,6 @@
 [submodule "rust-checker/static/solana-lints"]
 	path = rust-checker/static/solana-lints
 	url = https://github.com/Chain-Fox/solana-lints.git
+[submodule "solana-program-analyzer"]
+	path = solana-program-analyzer
+	url = https://github.com/Chain-Fox/solana-program-analyzer
