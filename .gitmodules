@@ -46,3 +46,9 @@
 [submodule "solana-program-analyzer"]
 	path = solana-program-analyzer
 	url = https://github.com/Chain-Fox/solana-program-analyzer
+[submodule "shell-checker/shell-checker/shellcheck"]
+	path = shell-checker/shell-checker/shellcheck
+	url = https://github.com/Chain-Fox/shellcheck
+[submodule "shell-checker/shellcheck"]
+	path = shell-checker/shellcheck
+	url = https://github.com/Chain-Fox/shellcheck
