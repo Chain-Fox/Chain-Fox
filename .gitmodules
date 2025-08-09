@@ -52,3 +52,9 @@
 [submodule "shell-checker/shellcheck"]
 	path = shell-checker/shellcheck
 	url = https://github.com/Chain-Fox/shellcheck
+[submodule "rust-checker/static/vrust-open-source"]
+	path = rust-checker/static/vrust-open-source
+	url = https://github.com/Chain-Fox/vrust-open-source
+[submodule "cpp-checker/cbmc"]
+	path = cpp-checker/cbmc
+	url = https://github.com/Chain-Fox/cbmc
