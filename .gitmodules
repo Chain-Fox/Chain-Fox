@@ -46,3 +46,6 @@
 [submodule "solana-program-analyzer"]
 	path = solana-program-analyzer
 	url = https://github.com/Chain-Fox/solana-program-analyzer
+[submodule "frontend/chain-fox-frontend"]
+	path = frontend/chain-fox-frontend
+	url = https://github.com/Chain-Fox/chain-fox-frontend
