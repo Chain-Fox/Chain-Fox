@@ -2,6 +2,7 @@
   <img src="https://www.chain-fox.com/logo.png" width="128" height="128">
   <h1>Chain-Fox</h1>
   <p>Bringing automated analysis to blockchain security.</p>
+  <p>Note that the X account ChainFoxHQ is no longer maintained. All the updates will be published in X account DieBX00 </p>
 
   [![Website](https://img.shields.io/badge/Website-Chain--Fox-blue)](https://chain-fox.com)
   [![Discord](https://img.shields.io/badge/Discord-Join-7289DA)](https://discord.gg/9Eyut3GJ)
