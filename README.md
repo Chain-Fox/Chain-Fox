@@ -3,6 +3,7 @@
   <h1>Chain-Fox</h1>
   <p>Bringing automated analysis to blockchain security.</p>
   <p>Note that the X account ChainFoxHQ is no longer maintained. All the updates will be published in X account DieBX00 </p>
+  <p>We are in the progress of launching a CTO. Please wait for the result </p>
 
   [![Website](https://img.shields.io/badge/Website-Chain--Fox-blue)](https://chain-fox.com)
   [![Discord](https://img.shields.io/badge/Discord-Join-7289DA)](https://discord.gg/9Eyut3GJ)
