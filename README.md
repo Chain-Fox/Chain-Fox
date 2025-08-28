@@ -3,14 +3,17 @@
   <h1>Chain-Fox</h1>
   <p>Bringing automated analysis to blockchain security.</p>
   <p>Note that the X account ChainFoxHQ is no longer maintained. All the updates will be published in X account DieBX00 </p>
-  <p>We are in the progress of launching a CTO. Please wait for the result </p>
+  <p>We are launching the new CFX token on **Bags**! </p>
+  <p>Developers will receive **100%** of the royalties </p>. 
+  <p>Additionally, 5% of revenue will be distributed as staking rewards to existing CFX holders.</p>
 
   [![Website](https://img.shields.io/badge/Website-Chain--Fox-blue)](https://chain-fox.com)
   [![Discord](https://img.shields.io/badge/Discord-Join-7289DA)](https://discord.gg/9Eyut3GJ)
   [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4)](https://t.me/chainfox_sol)
   [![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/ChainFoxHQ)
 
-  **CA:** `RhFVq1Zt81VvcoSEMSyCGZZv5SwBdA8MV7w4HEMpump`
+  **CA:** `Fo9wJVqWYXEgsG3UKekvK1R7YVewyUGodRfBrmjaBAGS`
+  ~~**CA:** `RhFVq1Zt81VvcoSEMSyCGZZv5SwBdA8MV7w4HEMpump`~~
 </div>
 
 ## 🎯 Why Chain-Fox
