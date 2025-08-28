@@ -7,7 +7,7 @@
   <p>Developers will receive **100%** of the royalties </p>. 
   <p>Additionally, 5% of revenue will be distributed as staking rewards to existing CFX holders.</p>
 
-  [![Website](https://img.shields.io/badge/Website-Chain--Fox-blue)](https://chain-fox.com)
+  [![Website](https://img.shields.io/badge/Website-Chain--Fox-blue)](https://www.chain-fox.com)
   [![Discord](https://img.shields.io/badge/Discord-Join-7289DA)](https://discord.gg/9Eyut3GJ)
   [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4)](https://t.me/chainfox_sol)
   [![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/ChainFoxHQ)
