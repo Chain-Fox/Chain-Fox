@@ -57,19 +57,23 @@ We are also planning to add more checkers see [here](https://github.com/Chain-Fo
 
 See `./detection-results/'Github Bug Report.xlsx'`
 
-## 🛣️ Roadmap
+Audit Report:
 
-- [x] An integrated environment for the deployment of all the Rust static checkers.
-- [x] Parse the various detection results and connect to the frontend.
-- [x] Implement the rule engine to improve the accuracy of detection results.
-- [x] Add options to dump the result to json files for easier parsing and integration with AI.
-- [ ] Design and implement APIs for better integration with web3 ecosystems.
-- [ ] Test and integrate more solidity checkers and parsing the results.
-- [ ] Integrate different levels of checkers with the payment and staking systems.
-- [ ] Build new middle-layer analysis result cache to reduce the computation costs.
-- [ ] Launch a large-scale scan for the web3 foundational infrustructure.
-- [ ] To become a basic security service provider for web3
+See `./audit_reports`
 
+## 🛣️ Long-Term Roadmap
+
+1. Redesign the current detection logic using the latest compiler public APIs.
+
+2. Model the contracts / program and make the framework AI-friendly for verification.
+
+3. Build a unified checking engine capable of handling multiple programming languages.
+
+Beyond technology, we’ll also:
+
+1. Reconnect with old partners we couldn’t engage with due to limited time.
+
+2. Build new relationships by offering valuable checking support.
 
 ## 🤝 Contributing
 
