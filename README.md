@@ -10,7 +10,7 @@
   [![Website](https://img.shields.io/badge/Website-Chain--Fox-blue)](https://www.chain-fox.com)
   [![Discord](https://img.shields.io/badge/Discord-Join-7289DA)](https://discord.gg/pNB3C42wjs)
   [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4)](https://t.me/chainfox_sol)
-  [![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/ChainFoxHQ)
+  [![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/DieBX00)
 
   **CA:** `Fo9wJVqWYXEgsG3UKekvK1R7YVewyUGodRfBrmjaBAGS`
   ~~**CA:** `RhFVq1Zt81VvcoSEMSyCGZZv5SwBdA8MV7w4HEMpump`~~
