@@ -31,7 +31,7 @@ We deliver automated, multi-language security detection that is easy to integrat
 
 ## 📊 Proof of Impact
 
-- **14 advanced checkers** integrated (Rust, Go, Solidity, C/C++).  
+- **23 advanced checkers** integrated (Rust, Go, Solidity, C/C++, Solana, etc.).  
 - **200+ bugs found and fixed** across real-world projects.  
 - Built-in CI/CD integration guides to get started in minutes.  
 
@@ -45,19 +45,28 @@ We bring together leading tools across ecosystems:
 | Checker      | Language   | Type      | Detects |
 | ------------ | ---------- | --------- | ------- |
 | lockbud      | Rust       | static    | Memory & concurrency bugs |
-| rudra        | Rust       | static    | Memory safety, variance, lifetime bugs |
 | RAPx         | Rust       | static    | Use-after-free, memory leaks |
 | AtomVChecker | Rust       | static    | Atomic concurrency bugs |
-| Cocoon       | Rust       | static    | Secrecy leaks |
-| MIRAI        | Rust       | static    | Panic & correctness issues |
+| cargo-check-deadlock | Rust | static  | Deadlock |
+| rudra        | Rust       | static    | Memory safety, variance, lifetime bugs |
+| MIRAI        | Rust       | verifier  | Panic & correctness issues |
+| verus        | Rust       | verifier  | Panic & correctness issues |
+| kani         | Rust       | verifier  | Panic & correctness issues |
 | ERASan       | Rust       | dynamic   | Memory access bugs |
 | shuttle      | Rust       | dynamic   | Concurrency bugs |
-| kani         | Rust       | verifier  | Safety, assertions, panics |
 | GCatch       | Go         | static    | Concurrency bugs |
 | GFuzz        | Go         | dynamic   | Concurrency bugs |
+| go-critic    | Go         | static    | Common Go bugs |
 | cppcheck     | C/C++      | static    | Common C/C++ bugs |
+| cpplint      | C/C++      | static    | Common C/C++ bugs |
+| bmoc         | C/C++      | verifier  | Common C/C++ bugs |
 | slither      | Solidity   | static    | Solidity bugs |
-| PeCatch      | Solidity   | static    | Gas-fee inefficiencies |
+| aderyn       | Solidity   | static    | Solidity bugs |
+| GasFeeSaver  | Solidity   | static    | Gas-fee inefficiencies |
+| solana-program-analyzer | Solana | static | Solana Bugs |
+| solana-lints | Solana     | static    | Solana Bugs |
+| trident      | Solana     | dynamic   | Solana Bugs |
+| shellcheck   | Shell      | static    | Shell Bugs |
 
 👉 See our [Awesome Rust Checker](https://github.com/Chain-Fox/Awesome-Rust-Checker) list for upcoming additions.  
 

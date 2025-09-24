@@ -112,3 +112,15 @@
 [submodule "checkers/rust-checker/ERASan"]
 	path = checkers/rust-checker/ERASan
 	url = https://github.com/Chain-Fox/ERASan
+[submodule "checkers/rust-checker/Rudra"]
+	path = checkers/rust-checker/Rudra
+	url = https://github.com/Chain-Fox/Rudra
+[submodule "checkers/rust-checker/MIRAI"]
+	path = checkers/rust-checker/MIRAI
+	url = https://github.com/Chain-Fox/MIRAI
+[submodule "checkers/rust-checker/verus"]
+	path = checkers/rust-checker/verus
+	url = https://github.com/Chain-Fox/verus
+[submodule "checkers/rust-checker/kani"]
+	path = checkers/rust-checker/kani
+	url = https://github.com/Chain-Fox/kani
