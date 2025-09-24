@@ -58,3 +58,57 @@
 [submodule "cpp-checker/cbmc"]
 	path = cpp-checker/cbmc
 	url = https://github.com/Chain-Fox/cbmc
+[submodule "checkers/solidity-checker/aderyn"]
+	path = checkers/solidity-checker/aderyn
+	url = https://github.com/Chain-Fox/aderyn
+[submodule "checkers/solana-checker/trident"]
+	path = checkers/solana-checker/trident
+	url = https://github.com/Chain-Fox/trident
+[submodule "checkers/rust-checker/cargo-check-deadlock"]
+	path = checkers/rust-checker/cargo-check-deadlock
+	url = https://github.com/Chain-Fox/cargo-check-deadlock
+[submodule "checkers/rust-checker/lockbud"]
+	path = checkers/rust-checker/lockbud
+	url = https://github.com/Chain-Fox/lockbud
+[submodule "checkers/solidity-checker/wake"]
+	path = checkers/solidity-checker/wake
+	url = https://github.com/Chain-Fox/wake
+[submodule "checkers/solana-checker/solana-lints"]
+	path = checkers/solana-checker/solana-lints
+	url = https://github.com/Chain-Fox/solana-lints
+[submodule "checkers/solidity-checker/slither"]
+	path = checkers/solidity-checker/slither
+	url = https://github.com/Chain-Fox/slither
+[submodule "checkers/rust-checker/RAPx"]
+	path = checkers/rust-checker/RAPx
+	url = https://github.com/Chain-Fox/RAPx
+[submodule "checkers/rust-checker/AtomVChecker"]
+	path = checkers/rust-checker/AtomVChecker
+	url = https://github.com/AtomVChecker/rust-atomic-study
+[submodule "checkers/rust-checker/shuttle"]
+	path = checkers/rust-checker/shuttle
+	url = https://github.com/Chain-Fox/shuttle
+[submodule "checkers/solana-checker/CertSBF"]
+	path = checkers/solana-checker/CertSBF
+	url = https://github.com/Chain-Fox/CertSBF
+[submodule "checkers/near-checker/rustle"]
+	path = checkers/near-checker/rustle
+	url = https://github.com/Chain-Fox/rustle.git
+[submodule "checkers/cpp-checker/cppcheck"]
+	path = checkers/cpp-checker/cppcheck
+	url = https://github.com/Chain-Fox/cppcheck
+[submodule "checkers/cpp-checker/cpplint"]
+	path = checkers/cpp-checker/cpplint
+	url = https://github.com/Chain-Fox/cpplint
+[submodule "checkers/go-checker/go-critic"]
+	path = checkers/go-checker/go-critic
+	url = https://github.com/Chain-Fox/go-critic
+[submodule "checkers/go-checker/GFuzz"]
+	path = checkers/go-checker/GFuzz
+	url = https://github.com/Chain-Fox/GFuzz
+[submodule "checkers/go-checker/GCatch"]
+	path = checkers/go-checker/GCatch
+	url = https://github.com/Chain-Fox/GCatch
+[submodule "checkers/rust-checker/ERASan"]
+	path = checkers/rust-checker/ERASan
+	url = https://github.com/Chain-Fox/ERASan
