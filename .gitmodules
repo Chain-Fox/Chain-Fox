@@ -112,3 +112,6 @@
 [submodule "checkers/rust-checker/ERASan"]
 	path = checkers/rust-checker/ERASan
 	url = https://github.com/Chain-Fox/ERASan
+[submodule "frontend/0g-bug-tracker"]
+	path = frontend/0g-bug-tracker
+	url = https://github.com/Chain-Fox/0g-bug-tracker.git
