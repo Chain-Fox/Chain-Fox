@@ -29,6 +29,33 @@ We deliver automated, multi-language security detection that is easy to integrat
 
 ---
 
+## 🛣️ Roadmap
+
+Chain-Fox is evolving from code-only auditing to full Web3 risk analysis using Skills and agents.
+For details, see [ROADMAP.md](./ROADMAP.md)   
+
+### Short Term (Month 1)
+- Rug pull detection (permissions + on-chain behavior)
+- Web3 website risk checks
+- Skill-based contract auditing
+- Make code checkers agentic and Skill-aware
+- Beta testing and feedback collection
+
+### Mid Term (Month 2)
+- Improve signals and reduce false positives/negatives
+- Add more Skills and specialized code checkers
+- Track historical on-chain patterns
+- API documentation and integration
+
+### Long Term (Quarter)
+- Multi-agent Skill system
+- Threat intelligence layer
+- CI/CD and alerting integration
+- Browser extension (read-only)
+- Open-source Skills and community contributions
+
+---
+
 ## 📊 Proof of Impact
 
 - **14 advanced checkers** integrated (Rust, Go, Solidity, C/C++).  
@@ -61,19 +88,6 @@ We bring together leading tools across ecosystems:
 
 👉 See our [Awesome Rust Checker](https://github.com/Chain-Fox/Awesome-Rust-Checker) list for upcoming additions.  
 
-
-## 🛣️ Roadmap
-
-**Short-term goals:**
-- Build collaboration with more influential projects.  
-- Extend coverage to more languages and project types.
-
-**Long-term vision:**
-- Build a **unified checking engine** for multi-language support.  
-- Enable **AI-assisted verification** for smarter bug detection.  
-- Foster a **community-driven security ecosystem** accessible to all.  
-
----
 
 ## 🤝 Get Involved
 
