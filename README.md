@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Chain-Fox&project=Chain-Fox&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <div align="center">
   <img src="https://www.chain-fox.com/logo.png" width="128" height="128">
   <h1>Chain-Fox</h1>
